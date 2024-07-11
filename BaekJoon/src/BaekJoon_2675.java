@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BaekJoon_2675 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int N = scanner.nextInt(); //입력받을 문자열 개수
