@@ -8,7 +8,7 @@ public class BaekJoon_25206 {
         float sumGrade = 0.f; //학점들의 총합
         float sumGradeXAverage = 0.f; //학점 * 과목평점
 
-        Loop1: for(int i = 0; i < 20; i++) {
+        for(int i = 0; i < 20; i++) {
             String input = scanner.nextLine();
 
             String[] buf = input.split("\\s"); //공백으로 구분
